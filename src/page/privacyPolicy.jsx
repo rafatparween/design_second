@@ -6,8 +6,8 @@ export const PrivacyPolicy = () => {
             <section>
                 <h2 class="text-2xl font-semibold text-gray-900">Who We Are</h2>
                 <p class="text-lg">
-                    We at <strong>hewlettprintersolution</strong>, located at the World Wide Web as
-                    <a href="http://hewlettprintersolution.com" class="text-blue-500 hover:underline">www.hewlettprintersolution.com</a>, value your right to privacy.
+                    We at <strong>Micro Sonic Repair</strong>, located at the World Wide Web as
+                    <a href="http://microsonicrepair.com" class="text-blue-500 hover:underline">www.microsonicrepairn.com</a>, value your right to privacy.
                     As a visitor to our website, we understand the importance of your privacy and strive to ensure that your information is protected.
                     We may ask for personal information such as your name, email address, or preferences when you access specific areas of our website or subscribe to our newsletter.
                     Rest assured, your data is securely managed to deliver content and services tailored to your choices.
@@ -40,7 +40,7 @@ export const PrivacyPolicy = () => {
             <section>
                 <h2 class="text-2xl font-semibold text-gray-900">How We Protect Your Personal Information</h2>
                 <p class="text-lg">
-                    At <strong>hewlettprintersolution</strong>, we prioritize your privacy and security. Sensitive information entered on our website, such as credit card details, is encrypted using Secure Socket Layer (SSL) technology.
+                    At <strong>Micro Sonic Repair</strong>, we prioritize your privacy and security. Sensitive information entered on our website, such as credit card details, is encrypted using Secure Socket Layer (SSL) technology.
                     We adhere to industry standards to safeguard your personal information during transmission and storage.
                 </p>
                 <p class="text-lg">
@@ -61,16 +61,16 @@ export const PrivacyPolicy = () => {
             <section>
                 <h2 class="text-2xl font-semibold text-gray-900">Notification of Changes</h2>
                 <p class="text-lg">
-                    If <strong>hewlettprintersolution</strong> decides to make changes to this Privacy Policy, we will post the updates on this page and other relevant areas of our website.
+                    If <strong>Micro Sonic Repair</strong> decides to make changes to this Privacy Policy, we will post the updates on this page and other relevant areas of our website.
                     This ensures that our users are always aware of what information we collect, how we use it, and under what circumstances it may be disclosed.
                 </p>
             </section>
 
             <footer class="text-center text-gray-600">
-                <p class="text-sm">© 2025 hewlettprintersolution. All Rights Reserved.</p>
+                <p class="text-sm">© 2025 Micro Sonic Repair. All Rights Reserved.</p>
                 <p class="text-sm">
                     For any questions or concerns regarding our privacy policy, please contact us at
-                    <a href="mailto:support@hewlettprintersolution.com" class="text-blue-500 hover:underline">support@hewlettprintersolution.com</a>.
+                    <a href="mailto:support@microsonicrepair.com" class="text-blue-500 hover:underline">support@microsonicrepair.com</a>.
                 </p>
             </footer>
         </div>
